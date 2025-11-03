@@ -6,3 +6,10 @@ CSV Files
 Documentation 
 - Roadblocks
 - What did you have to change with your ocde and such 
+
+Road blocks is firstly create the tables correctly everytime.
+  - I had problems of brain storming and actually going to Code what my restrictions for with checking for 
+    availability for the status of the book... 
+  - I then had problems with the Date, creating when the books were going to be due after loaning the book 
+  - My last roadblock I had with this process was the EXPLAIN code and creating an Index
+    
